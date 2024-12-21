@@ -1,0 +1,206 @@
+/* Generalni stilovi za telo i HTML */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Centriranje sadržaja */
+body{
+    background-image: url("../GAZDE-5-slika.png");
+}
+
+/* Stil za naslov */
+h1.prvi {
+    color: white;
+    font-size: 10rem;            /* Prilagodite veličinu fonta za bolje čitanje */
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+img.slika1 {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p.p1 {
+    margin-bottom: 150px;
+}
+
+p.p2 {
+    margin-bottom: 200px;
+}
+
+p.p3 {
+    margin-bottom: 200px;
+}
+
+p {
+    color: black;
+}
+
+img.slika2 {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+img.slika3 {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2 {
+    text-align: left;
+    color: darkslateblue;
+}
+
+
+/* Stil za svaku sliku */
+.slika {
+    width: 80%;               /* Slike će zauzeti 80% širine ekrana */
+    max-width: 300px;         /* Maksimalna širina slika */
+    border: 2px solid #ccc;   /* Okvir oko slika */
+    border-radius: 10px;}
+
+
+
+audio {
+    float: left;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+audio.audio1 {
+    float: right;
+    margin-right: 75px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+audio.audio2 {
+    float: right;
+    margin-right: 150px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+video.video1 {
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+
+p.p4 {
+    margin-left: 550px;
+    font-size: 5rem;
+    color: white;
+}
+
+img.slika4 {
+    float: left;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+img.slika5 {
+    float: right;
+    margin-right: 75px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+img.slika6 {
+    float: right;
+    margin-right: 150px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+p.p5 {
+    margin-top: 50px;
+    font-size: 4rem;
+    margin-left: 440px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+footer {
+    background-color: #721c24;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+p.p6 {
+    margin-bottom: 500px;
+}
+
+p.p7 {
+    color: white;
+    margin-left: 375px;
+    font-size: 4rem;
+}
+
+nav.navigacija {
+    text-align: center;
+    color: white;
+    background-color: #721c24;
+    padding: 20px;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+
+a.izbor1 {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin-left: 180px;
+}
+
+a:hover {
+    color: black;
+}
+
+a.izbor2 {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin-left: 180px;
+}
+
+a:hover {
+    color: black;
+}
+
+a.izbor3 {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin-left: 180px;
+}
+
+a:hover {
+    color: black;
+}
